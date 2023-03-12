@@ -1,3 +1,4 @@
+https://zelenka.guru/threads/5017983/
 [![[​IMG]](https://i.imgur.com/mdufFxp.png)](https://i.imgur.com/mdufFxp.png)  
 **Функции:**  
 
@@ -481,3 +482,9 @@
 *   Навсегда: 599$
 
 **Покупка** : [@payment\_bspbot](https://payment_bspbot.t.me) или напрямую [@zcxw\_sudo](https://zcxw_sudo.t.me) (В боте один способ пополнения - cryptopay, остальные методы напрямую)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bsp/count.svg" />
+</p>
