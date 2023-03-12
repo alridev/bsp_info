@@ -1,4 +1,5 @@
 https://zelenka.guru/threads/5017983/
+---
 [![[​IMG]](https://i.imgur.com/mdufFxp.png)](https://i.imgur.com/mdufFxp.png)  
 **Функции:**  
 
