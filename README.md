@@ -1,6 +1,6 @@
 https://zelenka.guru/threads/5017983/
 ---
-[![[​IMG]](https://i.imgur.com/mdufFxp.png)](https://i.imgur.com/mdufFxp.png)  
+[![[​IMG]](https://i.imgur.com/N3tBw7U.png)](https://i.imgur.com/mdufFxp.png)  
 **Функции:**  
 
 *   Парс seed-фраз и private key по логам с Tdata, session telethon и файлам любых типов
